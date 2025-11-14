@@ -40,8 +40,7 @@ All models are trained exclusively on **public academic datasets**.
 
 
 ## 📰 News
-- **25-11-2025:** Add [Awesome DA3 Projects](#-awesome-da3-projects), a community-driven section featuring DA3-based applications.
-- **14-11-2025:** Paper, project page, code and models are all released.
+- **2025-11-14:** 🎉 Paper, project page, code and models are all released.
 
 ## ✨ Highlights
 

@@ -34,3 +34,7 @@ input_images*/
 src/debug_main.py
 temp*.png
 /outputs
+data/
+.setup_config/
+notebook/output/
+notebooks/output/
