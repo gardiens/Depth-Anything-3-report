@@ -84,6 +84,9 @@ def parallel_execution(
         for v in kwargs.values():
             if isinstance(v, list):
                 return len(v)
+        print("args is",args)
+        print(len(args))
+
         raise NotImplementedError
 
     def get_action_args(length: int, args: List, kwargs: Dict, i: int):
